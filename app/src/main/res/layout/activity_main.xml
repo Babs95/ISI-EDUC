@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/size_all"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:text="@string/connection"
+        android:textSize="@dimen/size_title"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_top"></TextView>
+
+    <EditText
+        android:id="@+id/txtLogin"
+        android:hint="@string/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_top"></EditText>
+
+    <EditText
+        android:id="@+id/txtPassword"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_top"></EditText>
+
+    <Button
+        android:id="@+id/btnConnect"
+        android:background="@color/colorBlueDark"
+        android:textColor="@color/colorWhite"
+        android:text="@string/connect"
+        android:layout_marginTop="@dimen/size_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Button>
+
+    <Button
+        android:id="@+id/btnSignIn"
+        android:text="@string/sign_in"
+        android:background="@color/colorBlueAccent"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="@dimen/size_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Button>
+
+</LinearLayout>
