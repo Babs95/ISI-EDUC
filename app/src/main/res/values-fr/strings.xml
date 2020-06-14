@@ -24,4 +24,11 @@
     <string name="welcome">Bienvenue</string>
     <string name="wait">Veuillez patienter svp ...</string>
     <string name="success_save">Enregistrement réussi</string>
+    <string name="presentation">Présentation</string>
+    <string name="text_isi">L\'Institut Supérieur d\'Informatique (ISI), par la disponibilité et par l\'engagement de son directeur Général
+        à toute action visant la promotion de la jeunesse, est un institut qui justifie d\'une expérience de 20 ans
+        dans la formation professionnelle.
+        Créée en 1991, ISI s\'active dans la formation académique et modulaire dans les domaines de la gestion
+        et de l\'informatique afin de participer à la politique de mise en place par le gouvernement
+        pour développer le secteur de l\'Education et de la formation.</string>
 </resources>
