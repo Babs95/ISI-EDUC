@@ -19,4 +19,12 @@
         android:name="com.babs.isi_educ.FormationActivity"
         android:label="@string/formation"
         tools:layout="@layout/fragment_formation_activity" />
+
+    <fragment
+        android:id="@+id/nav_university"
+        android:name="com.babs.isi_educ.UniversityActivity"
+        android:label="@string/university"
+        tools:layout="@layout/activity_university" />
+
+
 </navigation>
