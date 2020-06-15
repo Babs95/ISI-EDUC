@@ -44,4 +44,7 @@
         Créée en 1991, ISI s\'active dans la formation académique et modulaire dans les domaines de la gestion
         et de l\'informatique afin de participer à la politique de mise en place par le gouvernement
         pour développer le secteur de l\'Education et de la formation.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

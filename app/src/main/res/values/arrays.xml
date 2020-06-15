@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tab_formation">
+        <item>Software Engineer</item>
+        <item>Network and Systems</item>
+        <item>Audiovisual</item>
+        <item>Management</item>
+        <item>Security</item>
+        <item>Logistic</item>
+    </string-array>
+
+    <string-array name="tab_details">
+        <item>Java, Asp, Database, UML, Linux, Admin Windows, Oracle, Php, Python, Android. Dev Web, Dev Mobile, DBA, Manager</item>
+        <item>Linux, Cloud, VoIp, Virtual Server, Java, UML, MySQL, Iot, Telecoms. Admin Network, Admin Sys, DBA, Manager</item>
+        <item>Audiovisual</item>
+        <item>Management</item>
+        <item>Security</item>
+        <item>Logistic</item>
+    </string-array>
+
+</resources>
